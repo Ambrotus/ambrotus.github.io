@@ -8,5 +8,6 @@
 {"id" : 7, "CarModel1": "Mitsubishi", "CarModel2" : "Lancer" ,"Year":2018},
 {"id" : 8, "CarModel1": "Subaru", "CarModel2" : "Impreza" ,"Year":2014},
 {"id" : 9, "CarModel1": "Volkswagen","CarModel2" : "Golf" , "Year":2018},
-{"id" : 10, "CarModel1": "Chevy","CarModel2" : "Sonic" , "Year":2016}
+{"id" : 10, "CarModel1": "Chevy","CarModel2" : "Sonic" , "Year":2016},
+{"id" : 11, "CarModel1": "Toyota","CarModel2" : "GT86" , "Year":2020}
 ]
